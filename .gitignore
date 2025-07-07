@@ -1,0 +1,11 @@
+   # Node
+   node_modules/
+
+   # Env files
+   backend/.env
+
+   # Build outputs
+   frontend/build/
+
+   # OS files
+   .DS_Store
